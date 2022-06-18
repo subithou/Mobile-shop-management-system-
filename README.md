@@ -1,4 +1,4 @@
-# Mobile shop management system
+# Mobile shop Management System
 
 ## Introduction
 
